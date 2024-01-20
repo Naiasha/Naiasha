@@ -8,4 +8,4 @@ Analista de dados
 Cientista de dados
 
 ###Habilidades em formação
-1.Programação em Python
+1.Programação em Python.
