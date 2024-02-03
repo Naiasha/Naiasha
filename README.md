@@ -12,5 +12,6 @@ Olá a todos, sejam bem vindos ao perfil de uma pessoa apaixonada por dados e na
 - Google Sheets
 
 ### Habilidades em formação
-1.Programação em Python.
+1.Programação em Python
+
 2.Power Bi
