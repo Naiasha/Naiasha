@@ -7,5 +7,10 @@ Olá a todos, sejam bem vindos ao perfil de uma pessoa apaixonada por dados e na
 - Analista de dados
 - Cientista de dados
 
+### Habilidades
+- Excel
+- Google Sheets
+
 ### Habilidades em formação
 1.Programação em Python.
+2.Power Bi
